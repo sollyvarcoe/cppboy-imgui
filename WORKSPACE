@@ -1,4 +1,4 @@
-workspace(name = "ImguiSFMLBazel")
+workspace(name = "cppboy")
 
 local_repository(
     name = "imguilib",
